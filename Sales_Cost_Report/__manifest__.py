@@ -1,5 +1,5 @@
 {
-    'name': 'Sales Cost Report ',
+    'name': 'Product Sales and Cost Report ',
     'category': 'Sales',
     'license': "AGPL-3",
     'author': 'Itech resources',
